@@ -39,6 +39,7 @@ dependencies:
   url_launcher: ^6.1.11
   flutter_launcher_icons: ^0.13.1
   change_app_package_name: ^1.1.0
+  any_link_preview: ^3.0.1
 
 dev_dependencies:
   flutter_test:
